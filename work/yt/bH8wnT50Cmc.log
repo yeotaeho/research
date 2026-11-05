@@ -1,0 +1,11 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=bH8wnT50Cmc
+[youtube] bH8wnT50Cmc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 1.0 seconds ...
+[youtube] bH8wnT50Cmc: Downloading android vr player API JSON
+[info] bH8wnT50Cmc: Downloading subtitles: ko
+[info] bH8wnT50Cmc: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: bH8wnT50Cmc.ko.vtt
+[download] Sleeping 2.00 seconds ...
+[download] Destination: bH8wnT50Cmc.ko.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at    5.26MiB/s (00:00:00)[download]   31.00KiB at 1017.34KiB/s (00:00:00)[download]   63.00KiB at    1.10MiB/s (00:00:00)[download]  127.00KiB at    1.35MiB/s (00:00:00)[download]  150.25KiB at    1.42MiB/s (00:00:00)[download] 100% of  150.25KiB in 00:00:00 at 316.75KiB/s

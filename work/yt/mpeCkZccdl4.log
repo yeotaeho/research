@@ -1,0 +1,11 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=mpeCkZccdl4
+[youtube] mpeCkZccdl4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 1.0 seconds ...
+[youtube] mpeCkZccdl4: Downloading android vr player API JSON
+[info] mpeCkZccdl4: Downloading subtitles: ko
+[info] mpeCkZccdl4: Downloading 1 format(s): 399+251
+[info] Writing video subtitles to: mpeCkZccdl4.ko.vtt
+[download] Sleeping 2.00 seconds ...
+[download] Destination: mpeCkZccdl4.ko.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    5.84MiB/s (00:00:00)[download]   15.00KiB at    2.44MiB/s (00:00:00)[download]   31.00KiB at  871.52KiB/s (00:00:00)[download]   63.00KiB at    1.22MiB/s (00:00:00)[download]   72.75KiB at    1.23MiB/s (00:00:00)[download] 100% of   72.75KiB in 00:00:00 at 191.63KiB/s

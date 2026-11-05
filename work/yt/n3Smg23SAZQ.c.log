@@ -1,0 +1,13 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=n3Smg23SAZQ
+[youtube] n3Smg23SAZQ: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] n3Smg23SAZQ: Downloading android vr player API JSON
+[youtube] Downloading comment section API JSON
+[youtube] Downloading ~4 comments
+[youtube] Sorting comments by newest
+[youtube] Downloading comment API JSON page 1 (0/~4)
+[youtube]     Downloading comment API JSON reply thread 1 (1/~4)
+[youtube]     Downloading comment API JSON reply thread 2 (3/~4)
+[youtube] Extracted 4 comments
+[info] n3Smg23SAZQ: Downloading 1 format(s): 271+251
+[info] Writing video metadata as JSON to: n3Smg23SAZQ_c.info.json

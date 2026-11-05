@@ -1,0 +1,14 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JXOjZv8XjHA
+[youtube] JXOjZv8XjHA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] JXOjZv8XjHA: Downloading android vr player API JSON
+[info] JXOjZv8XjHA: Downloading subtitles: ko, ko-orig, en
+[info] JXOjZv8XjHA: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: JXOjZv8XjHA.ko.vtt
+[download] Destination: JXOjZv8XjHA.ko.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    3.05MiB/s (00:00:00)[download]   12.14KiB at    1.65MiB/s (00:00:00)[download] 100% of   12.14KiB in 00:00:00 at 44.53KiB/s
+[info] Writing video subtitles to: JXOjZv8XjHA.ko-orig.vtt
+[download] Destination: JXOjZv8XjHA.ko-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    4.57MiB/s (00:00:00)[download]   12.14KiB at    1.58MiB/s (00:00:00)[download] 100% of   12.14KiB in 00:00:00 at 36.49KiB/s
+[info] Writing video subtitles to: JXOjZv8XjHA.en.vtt
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
