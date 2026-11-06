@@ -1,0 +1,200 @@
+{"id": 1, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 2, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 3, "paid_pain": 0, "happy": 1, "paid_for": "냐미쌤 전자책", "amount": "저렴", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 4, "paid_pain": 1, "happy": 0, "paid_for": "광고 대행 의뢰", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "광고 집행 전 테스트 기간을 계약에 넣는다.", "note": "경계 사례"}
+{"id": 5, "paid_pain": 1, "happy": 0, "paid_for": "중고 옷 구매", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "중고 구매 전 실물 사진·치수를 요청한다."}
+{"id": 6, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 7, "paid_pain": 1, "happy": 0, "paid_for": "대부업 대출 이자", "amount": "월 150만원", "recurring": 1, "complaint": "가격·수수료", "alt": "저금리 대환대출로 갈아탄다."}
+{"id": 8, "paid_pain": 1, "happy": 0, "paid_for": "트리니티항공 항공권 이름 변경", "amount": "15,000원", "recurring": 0, "complaint": "가격·수수료", "alt": "예약 전 영문 이름을 여권과 대조해 확인한다."}
+{"id": 9, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 10, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 11, "paid_pain": 1, "happy": 0, "paid_for": "팬싸 참가비", "amount": "", "recurring": 0, "complaint": "응대·지연", "alt": "추첨·공개 규정이 명확한 행사만 신청한다."}
+{"id": 12, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 13, "paid_pain": 1, "happy": 0, "paid_for": "챗GPT 멤버십", "amount": "월 2만원", "recurring": 1, "complaint": "기능·오류", "alt": "앱스토어 구독 관리에서 직접 플랜을 변경한다."}
+{"id": 14, "paid_pain": 1, "happy": 0, "paid_for": "세라젬 V9 구독", "amount": "월 12만원, 위약금 126만원", "recurring": 1, "complaint": "환불·해지", "alt": "약정 없는 단기 렌탈이나 일시불 구매를 택한다."}
+{"id": 15, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 16, "paid_pain": 1, "happy": 0, "paid_for": "택스리펀 대행", "amount": "수수료 44%", "recurring": 0, "complaint": "가격·수수료", "alt": "카드 환급이나 공항 직접 환급을 이용한다."}
+{"id": 17, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 18, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 19, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 20, "paid_pain": 0, "happy": 1, "paid_for": "공식 굿즈", "amount": "3만원대", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 21, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 22, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 23, "paid_pain": 1, "happy": 0, "paid_for": "해외 ATM 현금 인출", "amount": "수수료 약 10%", "recurring": 0, "complaint": "가격·수수료", "alt": "수수료 면제 트래블카드를 쓴다."}
+{"id": 24, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 25, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 26, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 27, "paid_pain": 1, "happy": 0, "paid_for": "주식 매매 수수료", "amount": "", "recurring": 1, "complaint": "가격·수수료", "alt": "수수료 무료 이벤트 증권사로 옮긴다.", "note": "경계 사례"}
+{"id": 28, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 29, "paid_pain": 1, "happy": 0, "paid_for": "원룸 중개수수료", "amount": "20만원", "recurring": 0, "complaint": "가격·수수료", "alt": "직거래 앱으로 계약한다."}
+{"id": 30, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 31, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 32, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 33, "paid_pain": 1, "happy": 0, "paid_for": "구글 워크스페이스 구독", "amount": "", "recurring": 1, "complaint": "환불·해지", "alt": "카드사에서 해외 자동결제를 차단하고 결제 알림을 켠다."}
+{"id": 34, "paid_pain": 1, "happy": 0, "paid_for": "원룸 중개수수료", "amount": "19만 3,600원", "recurring": 0, "complaint": "가격·수수료", "alt": "직거래 앱으로 계약한다."}
+{"id": 35, "paid_pain": 1, "happy": 0, "paid_for": "트래블월렛 현금 인출", "amount": "", "recurring": 0, "complaint": "가격·수수료", "alt": "수수료 면제 ATM이나 다른 트래블카드를 쓴다."}
+{"id": 36, "paid_pain": 1, "happy": 0, "paid_for": "삼성 디지털카메라 수리", "amount": "", "recurring": 0, "complaint": "응대·지연", "alt": "제조사 공식 접수 후 진행 상태를 문서로 확인한다.", "note": "경계 사례"}
+{"id": 37, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 38, "paid_pain": 1, "happy": 0, "paid_for": "게임 캐시 구매", "amount": "", "recurring": 0, "complaint": "가격·수수료", "alt": "수수료 없는 아이템 거래·이벤트를 활용한다.", "note": "경계 사례"}
+{"id": 39, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 40, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 41, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 42, "paid_pain": 1, "happy": 0, "paid_for": "공방 커미션", "amount": "", "recurring": 0, "complaint": "응대·지연", "alt": "납기·소통 조건이 명시된 작가에게 맡긴다."}
+{"id": 43, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 44, "paid_pain": 1, "happy": 0, "paid_for": "실손보험", "amount": "월 15만원", "recurring": 1, "complaint": "불필요·낭비", "alt": "의료수급자 자격에 맞춰 보장 중복을 정리한다."}
+{"id": 45, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 46, "paid_pain": 1, "happy": 0, "paid_for": "컴퓨터 수리", "amount": "", "recurring": 0, "complaint": "사기·먹튀", "alt": "제조사 서비스센터에 견적을 먼저 받는다."}
+{"id": 47, "paid_pain": 0, "happy": 1, "paid_for": "그릴 크롬 키트", "amount": "4만원대", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 48, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 49, "paid_pain": 0, "happy": 1, "paid_for": "마사지", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 50, "paid_pain": 1, "happy": 0, "paid_for": "빗썸 거래 수수료", "amount": "", "recurring": 1, "complaint": "가격·수수료", "alt": "수수료가 낮은 거래소로 옮긴다."}
+{"id": 51, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 52, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 53, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 54, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 55, "paid_pain": 1, "happy": 0, "paid_for": "명품 구매대행 드라이클리닝", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "구매대행 대신 공식 매장에서 구매·AS한다."}
+{"id": 56, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 57, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 58, "paid_pain": 1, "happy": 0, "paid_for": "아파트 입주청소", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "후기 검증된 업체를 고르거나 직접 청소한다."}
+{"id": 59, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 60, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 61, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 62, "paid_pain": 1, "happy": 0, "paid_for": "이패스 모의고사", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "기출문제 중심으로 학습한다.", "note": "경계 사례"}
+{"id": 63, "paid_pain": 1, "happy": 0, "paid_for": "카피트레이더 구독", "amount": "월 구독료", "recurring": 1, "complaint": "가격·수수료", "alt": "직접 만든 자동화 도구로 대체한다."}
+{"id": 64, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 65, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 66, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 67, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 68, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 69, "paid_pain": 1, "happy": 0, "paid_for": "임대차 중개수수료", "amount": "", "recurring": 0, "complaint": "가격·수수료", "alt": "직거래 계약서를 직접 작성한다."}
+{"id": 70, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 71, "paid_pain": 1, "happy": 0, "paid_for": "가게 광고 대행", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "플레이스·블로그를 직접 운영한다."}
+{"id": 72, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 73, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 74, "paid_pain": 0, "happy": 1, "paid_for": "누수탐지", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 75, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 76, "paid_pain": 1, "happy": 0, "paid_for": "아이클라우드 50GB", "amount": "", "recurring": 1, "complaint": "기능·오류", "alt": "기기별 백업 설정을 정리한다."}
+{"id": 77, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 78, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 79, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 80, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 81, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 82, "paid_pain": 1, "happy": 0, "paid_for": "차량 틴팅 추가금", "amount": "", "recurring": 0, "complaint": "가격·수수료", "alt": "계약 전 시공 옵션 가격을 문서로 확정한다."}
+{"id": 83, "paid_pain": 1, "happy": 0, "paid_for": "호텔 상견례 코스", "amount": "식사비 약 90만원", "recurring": 0, "complaint": "품질·결과", "alt": "후기 많은 일반 식당을 예약한다."}
+{"id": 84, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 85, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 86, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 87, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 88, "paid_pain": 1, "happy": 0, "paid_for": "영상 편집 프로그램 구독", "amount": "", "recurring": 1, "complaint": "불필요·낭비", "alt": "무료 편집툴로 대체한다."}
+{"id": 89, "paid_pain": 1, "happy": 0, "paid_for": "거래소 수수료", "amount": "", "recurring": 1, "complaint": "가격·수수료", "alt": "수수료가 낮은 거래소로 옮긴다."}
+{"id": 90, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 91, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 92, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 93, "paid_pain": 0, "happy": 1, "paid_for": "엘지전자 배송", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 94, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 95, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 96, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 97, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 98, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 99, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 100, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 101, "paid_pain": 1, "happy": 0, "paid_for": "월세방 중개수수료", "amount": "51만원", "recurring": 0, "complaint": "가격·수수료", "alt": "직거래 앱으로 계약한다."}
+{"id": 102, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 103, "paid_pain": 1, "happy": 0, "paid_for": "포토샵 구독", "amount": "", "recurring": 1, "complaint": "가격·수수료", "alt": "영구 라이선스 대안 툴을 쓴다."}
+{"id": 104, "paid_pain": 1, "happy": 0, "paid_for": "음원 스트리밍 구독", "amount": "", "recurring": 1, "complaint": "품질·결과", "alt": "음원 수가 많은 다른 서비스로 바꾼다."}
+{"id": 105, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 106, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 107, "paid_pain": 0, "happy": 1, "paid_for": "챗GPT 구독", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 108, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 109, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 110, "paid_pain": 1, "happy": 0, "paid_for": "스캘핑 매매 수수료", "amount": "", "recurring": 1, "complaint": "가격·수수료", "alt": "매매 횟수를 줄인다."}
+{"id": 111, "paid_pain": 1, "happy": 0, "paid_for": "헬스장 구독 약정", "amount": "", "recurring": 1, "complaint": "환불·해지", "alt": "약정 없는 일일권을 쓴다."}
+{"id": 112, "paid_pain": 1, "happy": 0, "paid_for": "하이퍼리퀴드 거래 수수료", "amount": "", "recurring": 0, "complaint": "가격·수수료", "alt": "메이커 주문으로 수수료를 낮춘다.", "note": "경계 사례"}
+{"id": 113, "paid_pain": 1, "happy": 0, "paid_for": "프라모델 구매", "amount": "약 10만원", "recurring": 0, "complaint": "품질·결과", "alt": "후기를 확인하고 구매한다."}
+{"id": 114, "paid_pain": 1, "happy": 0, "paid_for": "타임지 구독", "amount": "12만원", "recurring": 1, "complaint": "환불·해지", "alt": "구독 전 해지 조건을 서면으로 받는다."}
+{"id": 115, "paid_pain": 1, "happy": 0, "paid_for": "게임 구독료", "amount": "", "recurring": 1, "complaint": "기능·오류", "alt": "장애 보상 정책이 있는 서비스를 고른다."}
+{"id": 116, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 117, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 118, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 119, "paid_pain": 1, "happy": 0, "paid_for": "카센터 수리", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "공식 서비스센터에서 정비 내역을 받는다."}
+{"id": 120, "paid_pain": 1, "happy": 0, "paid_for": "주식 매수 수수료", "amount": "", "recurring": 0, "complaint": "가격·수수료", "alt": "수수료 우대 계좌로 거래한다.", "note": "경계 사례"}
+{"id": 121, "paid_pain": 1, "happy": 0, "paid_for": "에어컨 청소", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "후기 검증된 업체를 고른다.", "note": "경계 사례"}
+{"id": 122, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 123, "paid_pain": 1, "happy": 0, "paid_for": "경매 플랫폼 수수료", "amount": "", "recurring": 0, "complaint": "가격·수수료", "alt": "수수료가 낮은 거래 플랫폼을 쓴다."}
+{"id": 124, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 125, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 126, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 127, "paid_pain": 1, "happy": 0, "paid_for": "애견호텔 위탁", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "CCTV·후기 확인된 시설에 맡긴다."}
+{"id": 128, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 129, "paid_pain": 1, "happy": 0, "paid_for": "듀오 결혼정보 가입", "amount": "", "recurring": 1, "complaint": "품질·결과", "alt": "무료 매칭 앱을 쓴다."}
+{"id": 130, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 131, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 132, "paid_pain": 1, "happy": 0, "paid_for": "클로드 유료 체험", "amount": "200달러", "recurring": 1, "complaint": "불필요·낭비", "alt": "로컬 모델이나 저가 플랜을 쓴다.", "note": "경계 사례"}
+{"id": 133, "paid_pain": 1, "happy": 0, "paid_for": "삼쩜삼 환급 대행", "amount": "", "recurring": 0, "complaint": "가격·수수료", "alt": "홈택스에서 직접 신고한다."}
+{"id": 134, "paid_pain": 1, "happy": 0, "paid_for": "배달앱 수수료", "amount": "", "recurring": 1, "complaint": "가격·수수료", "alt": "자체 주문 채널·포장 주문을 늘린다."}
+{"id": 135, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 136, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 137, "paid_pain": 1, "happy": 0, "paid_for": "치트키 결제", "amount": "", "recurring": 0, "complaint": "불필요·낭비", "alt": "무료 기능만 쓴다.", "note": "경계 사례"}
+{"id": 138, "paid_pain": 1, "happy": 0, "paid_for": "게임 강화서 구매", "amount": "장당 1.5만원", "recurring": 0, "complaint": "불필요·낭비", "alt": "재화 획득 속도를 확인한 뒤 산다."}
+{"id": 139, "paid_pain": 1, "happy": 0, "paid_for": "애플뮤직·아이클라우드 구독", "amount": "월 8.9천원 등", "recurring": 1, "complaint": "불필요·낭비", "alt": "안 쓰는 구독부터 해지한다."}
+{"id": 140, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 141, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 142, "paid_pain": 1, "happy": 0, "paid_for": "키움 증권 수수료", "amount": "", "recurring": 1, "complaint": "가격·수수료", "alt": "수수료 낮은 증권사로 옮긴다."}
+{"id": 143, "paid_pain": 0, "happy": 1, "paid_for": "미슐랭 레스토랑", "amount": "59만원", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 144, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 145, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 146, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 147, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 148, "paid_pain": 1, "happy": 0, "paid_for": "그림 커미션", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "작가 포트폴리오와 러프 단계를 확인한다."}
+{"id": 149, "paid_pain": 1, "happy": 0, "paid_for": "굿노트 유료", "amount": "", "recurring": 0, "complaint": "기능·오류", "alt": "다른 필기 앱을 비교해 쓴다."}
+{"id": 150, "paid_pain": 1, "happy": 0, "paid_for": "여권사진", "amount": "4만원", "recurring": 0, "complaint": "가격·수수료", "alt": "동네 사진관이나 무인 촬영기를 쓴다."}
+{"id": 151, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 152, "paid_pain": 1, "happy": 0, "paid_for": "유료 생일파티", "amount": "3만원", "recurring": 0, "complaint": "품질·결과", "alt": "참가 전 구성품을 확인한다."}
+{"id": 153, "paid_pain": 1, "happy": 0, "paid_for": "PC 게임 세팅 대행", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "직접 그래픽 설정을 조정한다."}
+{"id": 154, "paid_pain": 1, "happy": 0, "paid_for": "OTT 구독 묶음", "amount": "월 몇만원", "recurring": 1, "complaint": "불필요·낭비", "alt": "쓰는 것만 남기고 번갈아 구독한다.", "note": "경계 사례"}
+{"id": 155, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 156, "paid_pain": 1, "happy": 0, "paid_for": "프롬 구독", "amount": "", "recurring": 1, "complaint": "환불·해지", "alt": "앱마켓 정기결제까지 따로 해지한다."}
+{"id": 157, "paid_pain": 0, "happy": 1, "paid_for": "트래블로그 카드", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 158, "paid_pain": 1, "happy": 0, "paid_for": "세무사 종소세 신고", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "홈택스 셀프 신고를 한다."}
+{"id": 159, "paid_pain": 1, "happy": 0, "paid_for": "애플케어 서비스", "amount": "", "recurring": 1, "complaint": "환불·해지", "alt": "구매 시 해지 조건을 문서로 확인한다."}
+{"id": 160, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 161, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 162, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 163, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 164, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 165, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 166, "paid_pain": 1, "happy": 0, "paid_for": "정형외과 초진비", "amount": "", "recurring": 0, "complaint": "가격·수수료", "alt": "건강보험 급여 항목을 확인한다."}
+{"id": 167, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 168, "paid_pain": 1, "happy": 0, "paid_for": "삼쩜삼 수수료", "amount": "", "recurring": 0, "complaint": "가격·수수료", "alt": "토스·홈택스로 한 곳에서만 신청한다."}
+{"id": 169, "paid_pain": 1, "happy": 0, "paid_for": "대만주식 환전 수수료", "amount": "억 단위", "recurring": 0, "complaint": "가격·수수료", "alt": "환전 우대율이 높은 증권사 환전을 쓴다.", "note": "경계 사례"}
+{"id": 170, "paid_pain": 0, "happy": 1, "paid_for": "포장이사", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 171, "paid_pain": 0, "happy": 1, "paid_for": "호이안 숙소", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 172, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 173, "paid_pain": 0, "happy": 1, "paid_for": "수강신청 대행", "amount": "1만원", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 174, "paid_pain": 1, "happy": 0, "paid_for": "게임 유료 스킨", "amount": "3만~10만원", "recurring": 0, "complaint": "품질·결과", "alt": "결과물 확인 후 구매한다."}
+{"id": 175, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 176, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 177, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 178, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 179, "paid_pain": 1, "happy": 0, "paid_for": "애플 서비스센터 수리", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "공식 AS 이력 확인 후 진행한다."}
+{"id": 180, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 181, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 182, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 183, "paid_pain": 1, "happy": 0, "paid_for": "빈펄사파리 입장", "amount": "약 50만원", "recurring": 0, "complaint": "가격·수수료", "alt": "더 저렴한 동물원을 고른다."}
+{"id": 184, "paid_pain": 0, "happy": 1, "paid_for": "공항픽업", "amount": "26만동", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 185, "paid_pain": 1, "happy": 0, "paid_for": "모바메 월정액", "amount": "", "recurring": 1, "complaint": "불필요·낭비", "alt": "이용 빈도가 낮으면 해지한다.", "note": "경계 사례"}
+{"id": 186, "paid_pain": 0, "happy": 1, "paid_for": "영화 관람", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 187, "paid_pain": 1, "happy": 0, "paid_for": "유튜브 프리미엄", "amount": "", "recurring": 1, "complaint": "불필요·낭비", "alt": "광고 차단 대안이나 가족 플랜을 쓴다.", "note": "경계 사례"}
+{"id": 188, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 189, "paid_pain": 1, "happy": 0, "paid_for": "구독 서비스 묶음", "amount": "월 34만원", "recurring": 1, "complaint": "불필요·낭비", "alt": "구독을 정리한다."}
+{"id": 190, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 191, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 192, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 193, "paid_pain": 1, "happy": 0, "paid_for": "어도비 포토샵 구독", "amount": "", "recurring": 1, "complaint": "환불·해지", "alt": "결제일 전 해지하고 대안을 쓴다."}
+{"id": 194, "paid_pain": 1, "happy": 0, "paid_for": "넥슨 게임 캐시", "amount": "", "recurring": 1, "complaint": "기능·오류", "alt": "운영 대응이 좋은 게임을 고른다."}
+{"id": 195, "paid_pain": 1, "happy": 0, "paid_for": "AI 구독", "amount": "", "recurring": 1, "complaint": "불필요·낭비", "alt": "하나로 통합하고 나머지는 해지한다.", "note": "경계 사례"}
+{"id": 196, "paid_pain": 1, "happy": 0, "paid_for": "로맨스스캠 피해", "amount": "4000만원", "recurring": 0, "complaint": "사기·먹튀", "alt": "금융 감독기관에 먼저 신고하고 송금 전 검증한다."}
+{"id": 197, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 198, "paid_pain": 1, "happy": 0, "paid_for": "아파트 관리비 자동이체", "amount": "57만원", "recurring": 1, "complaint": "기타", "alt": "카드 변경 시 자동이체 목록을 점검한다.", "note": "경계 사례"}
+{"id": 199, "paid_pain": 0, "happy": 0, "paid_for": "", "amount": "", "recurring": 0, "complaint": "", "alt": ""}
+{"id": 200, "paid_pain": 1, "happy": 0, "paid_for": "입주청소", "amount": "", "recurring": 0, "complaint": "품질·결과", "alt": "계약서에 작업 범위를 확정한다."}

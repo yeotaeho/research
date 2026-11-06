@@ -1,0 +1,103 @@
+﻿source,domain,want,pay_signal,existing,fusion,url
+기존표본,집안일·청소·세탁,집안일(설거지 등)을 대신해 주는 가정용 로봇,0,로봇청소기·식기세척기(부분),로봇팔 + 식기세척기,https://gall.dcinside.com/mgallery/board/view/?id=stayc&no=606036
+기존표본,출퇴근·이동,출발·도착지만 넣으면 버스·지하철 최적 경로를 알려 주는 앱,0,네이버지도/카카오맵,,https://kin.naver.com/qna/detail.naver?answerNo=2&dirId=8020605&docId=495661632&kinsrch_src=pc_tab_kin&qb=7KeA7ZWY7LKgIOu2iO2OuA%3D%3D
+기존표본,돈관리·공과금·구독,건당 단가가 매번 다른 일용직 일당을 기록하는 앱,0,모름,가계부 + 근무기록 앱,https://gall.dcinside.com/mgallery/board/view/?id=nogada&no=1269502
+기존표본,돈관리·공과금·구독,부부 각자 카드 실적을 보고 생활비 분담을 자동 계산해 주는 앱,0,뱅크샐러드(부분),가계부 + 카드실적 계산기,https://cafe.naver.com/directwedding/8641526
+기존표본,돈관리·공과금·구독,사업장 수도·전기 등 공과금을 모바일로 한곳에서 관리하는 것,0,모름,고지서 스캔 + 자동납부 알림,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=403&docId=329492501&kinsrch_src=pc_tab_kin&qb=6rO16rO86riIIOu2iO2OuA%3D%3D
+기존표본,돈관리·공과금·구독,입력이 귀찮지 않은 쉬운 가계부,0,토스·뱅크샐러드,,https://kin.naver.com/qna/detail.naver?answerNo=18&dirId=50603&docId=492311741&kinsrch_src=pc_tab_kin&qb=6rCA6rOE67aAIOyKpO2KuOugiOyKpA%3D%3D
+기존표본,쇼핑·배송·반품,게임에 아이템 잠금·물약 쿨타임 표시·강화석 일괄 교환 같은 편의 기능,0,없어 보임,,https://gall.dcinside.com/mgallery/board/view/?id=jururu&no=291836
+기존표본,쇼핑·배송·반품,여러 택배사 조회를 한 번에 해 주는 택배 조회 앱,0,스마트택배·네이버,,https://cafe.naver.com/hotdealplayground/310589
+기존표본,부모님·노인 돌봄,무기·스킬을 한 번에 올려 주는 게임 모드,0,모름,,https://gall.dcinside.com/mgallery/board/view/?id=darkest&no=247157
+기존표본,자동차·정비,셀프 세차장에 차량 물기 건조기가 있었으면 하는 것,0,없어 보임,에어건 세차장 + 무인 결제,https://gall.dcinside.com/board/view/?id=car_new1&no=10820739
+기존표본,미용·피부·외모,집으로 오는 출장 미용사,1,출장미용 서비스(소규모),미용 예약앱 + 출장 매칭,https://gall.dcinside.com/board/view/?id=cs_new1&no=7086119
+기존표본,미용·피부·외모,손을 다쳤을 때 머리만 감겨 주는 미용실,1,헤드스파·샴푸 전문점,,https://cafe.naver.com/eungyemam/290713
+기존표본,입시·학원·학부모,학원비 카드결제를 비대면으로 받는 시스템,0,결제선생,,https://cafe.naver.com/hakwano/36516
+기존표본,가족·명절·시댁,앱에 앞으로 있었으면 하는 기능(코멘트 개선 등),0,모름,,https://gall.dcinside.com/mgallery/board/view/?id=slbcareer&no=2472
+기존표본,디지털·계정·피싱,이미지 스팸 문자까지 자동 차단하는 방법,0,후후·스팸차단 앱,,https://gall.dcinside.com/mgallery/board/view/?id=cookierun&no=1052829
+기존표본,디지털·계정·피싱,스팸 문자가 한 번에 오지 않게 막는 방법,0,KISA 스팸차단·후후,,https://cafe.naver.com/geahwa73/583386
+기존표본,공연·티켓팅,티켓팅용 소수점 서버시간 시계 앱을 아이폰에서 쓰는 것,0,서버시간 앱(안드로이드 위주),,https://gall.dcinside.com/mgallery/board/view/?id=sff&no=893300
+기존표본,세금·연말정산,연말정산 항목을 부양가족별 금액으로 나눠 보는 방법,0,홈택스(부분),홈택스 + 가족별 집계 도구,https://cafe.naver.com/semusarangkclep/60522
+기존표본,옷·패션,헌옷을 수거해 세탁·재활용·현금화해 주는 업체,0,옷캔·헌옷수거 업체,,https://cafe.naver.com/puyeomom/110019
+새수집,커뮤니티,커뮤니티 내 작성글을 일괄 삭제하는 기능,0,모름,,https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=5009443
+새수집,이동,집 밖에서 돈 내고 배터리를 맡겨 충전해 두고 나중에 찾아가는 서비스,1,없어 보임,보조배터리 대여 + 보관함,https://gall.dcinside.com/mgallery/board/view/?id=wjsrlwkwjsrj&no=118896
+새수집,이동,한큐 역에서 고베공항까지 캐리어를 먼저 옮겨 주는 서비스,0,공항 짐배송(택배),공항 리무진 + 수하물 배송,https://cafe.naver.com/jpnstory/4427608
+새수집,사진편집,클릭 한 번으로 사진 속 눈동자 시선을 바꿔 주는 앱,0,AI 시선 보정 앱(포토샵 등),,https://gall.dcinside.com/mini/board/view/?id=cosplaystory2&no=190036
+새수집,PC주변기기,키보드 반응속도를 빠르게 해 주는 앱,0,모름,,https://gall.dcinside.com/mgallery/board/view/?id=mechanicalkeyboard&no=2176927
+새수집,디지털웰빙,숏폼(클립 등)을 선택적으로 끄는 기능,0,앱 사용시간 제한 기능,,https://cafe.naver.com/sjmoms/2238451
+새수집,이동,열차 위치·차량 종류·운행 종류를 보여 주는 철도 앱,0,코레일톡/레일플러스 등,,https://gall.dcinside.com/mgallery/board/view/?id=jr&no=114341
+새수집,취미,직접 두어 보며 연습할 수 있는 바둑 사활 앱,0,모름,,https://gall.dcinside.com/board/view/?id=baduk&no=1192640
+새수집,스마트폰,와이파이/데이터 연결 상태에 맞춰 동작하는 앱,0,모름,,https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9531495
+새수집,육아,카시트를 빌려주는 곳,0,카시트 렌탈 업체,렌터카 + 카시트 대여,https://cafe.naver.com/msbabys/5057996
+새수집,PC주변기기,트랙볼 키보드용 쓸 만한 모딩 제품,0,모름,,https://gall.dcinside.com/mini/board/view/?id=splitkeeb&no=15439
+새수집,부동산,아파트 단지별 소유자 부채·자기자본비율을 비교해 주는 서비스,0,없어 보임,실거래가 + 등기 근저당 데이터,https://cafe.naver.com/chinjua425/85487
+새수집,투자,미국주식 상승/하락 실시간 순위를 보여 주는 앱,0,증권사 앱·인베스팅닷컴,,https://gall.dcinside.com/mgallery/board/view/?id=stockus&no=13054200
+새수집,생산성,대학생용 같은 스케줄 관리 앱,0,에브리타임 등,,https://kin.naver.com/qna/detail.naver?answerNo=3&dirId=1060113&docId=483559702&kinsrch_src=pc_tab_kin&qb=7J2065%2BwIOyVsSDsl4brgpjsmpQ%3D
+새수집,사진정리,구글포토에서 사진을 AI로 자동 분류·중복 정리하기(애플과 병용),0,구글포토/애플사진 각자,구글포토 + 애플 사진 동기화,https://cafe.naver.com/appleiphone/9172573
+새수집,돈관리,장보기 중 메모한 것 이상 담으면 경고해 주는 앱,0,없어 보임,장보기 메모 + 예산 알림,https://cafe.naver.com/gdnewcity1144/375216
+새수집,교육,생기부와 희망 학교를 보고 수시 전형을 알려 주는 서비스,0,입시 컨설팅·어디가,,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=110408&docId=486842914&kinsrch_src=pc_tab_kin&qb=7ZW07KO864qUIOyEnOu5hOyKpCDsl4brgpjsmpQ%3D
+새수집,취미,칼 샤프닝을 싸게 해 주는 업체,1,오프라인 샤프닝 업체,,https://gall.dcinside.com/mgallery/board/view/?id=knife3&no=145642
+새수집,알바/노동,출퇴근·잔업을 기록하고 월급·일급을 계산해 주는 앱,0,알바 급여계산 앱,,https://cafe.naver.com/appleiphone/9178252
+새수집,중고거래,중고 아이패드 상태를 간단히 점검하는 자가테스트 기능,0,모름,,https://cafe.naver.com/appleiphone/9184283
+새수집,디지털데이터,침수로 켜지지 않는 폰에서 사진을 건지는 방법,0,데이터 복구 업체,,https://cafe.naver.com/anycallusershow/5285901
+새수집,이사,냉장고·세탁기 배송·설치·기존 제품 회수를 한 번에 해 주는 업체,1,이사/가전 배송 업체,,https://kin.naver.com/qna/detail.naver?answerNo=4&dirId=50104&docId=466286127&kinsrch_src=pc_tab_kin&qb=7ZW07KO864qUIOyEnOu5hOyKpCDsl4brgpjsmpQ%3D
+새수집,통신,데이터 사용량이 일정 이상이면 차단하는 부가서비스,0,통신사 데이터 차단 기능,,https://gall.dcinside.com/mgallery/board/view/?id=mvnogallery&no=499084
+새수집,이동,공항 인도·성산 반납처럼 편도 반납이 되는 제주 렌터카,0,일부 렌터카 편도 반납,,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=1214&docId=419065154&kinsrch_src=pc_tab_kin&qb=7ZW07KO864qUIOyEnOu5hOyKpCDsl4brgpjsmpQ%3D
+새수집,생산성,맥 Paste 같은 깔끔한 윈도우 클립보드 프로그램,0,"Ditto, Win+V",,https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=8257307
+새수집,통신/구독,LG U+에서도 우주패스 같은 구독 서비스,0,우주패스(SKT),,https://www.82cook.com/entiz/read.php?bn=15&num=3704597
+새수집,문서/사진,누런 사진을 찍으면 깔끔한 흑백으로 바꿔 주는 앱,0,문서스캔 앱,,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=31402&docId=470844812&kinsrch_src=pc_tab_kin&qb=7J2065%2BwIOq4sOuKpSDsnojripQg7JWxIOyXhuuCmA%3D%3D
+새수집,게임,PC로 게임 중 원격으로 채팅만 칠 수 있는 간단한 앱,0,모름,,https://gall.dcinside.com/mgallery/board/view/?id=maplerpg&no=430922
+새수집,음악,여러 음악의 소리 크기를 일정하게 맞춰 주는 앱,0,볼륨 노멀라이저 기능,,https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9842076
+새수집,스마트폰,비슷한 앱을 자동으로 폴더로 묶어 주는 기능,0,아이폰 앱 보관함,,https://gall.dcinside.com/mgallery/board/view/?id=galaxy&no=2329840
+새수집,장보기,장보면 집까지 배달해 주는 주차 편한 대형마트,0,쿠팡/마켓컬리/마트 배송,,https://cafe.naver.com/3gumomclub/1568176
+새수집,보험,보험금 청구를 비용 내고 대신 해 주는 서비스,1,보험금 청구 대행(일부 업체),보험 앱 + 청구 대행,https://www.clien.net/service/board/park/19090797
+새수집,팬덤,문장을 리바이 말투로 바꿔 주는 번역기,0,모름,,https://pann.nate.com/talk/361658895
+새수집,자동차,차 창문이 열려 있으면 앱으로 알려 주는 기능,0,현대 블루링크(일부 차종),,https://cafe.naver.com/old13/92157
+새수집,패션,후드에서 귀만 뚫려 있는 의류,0,모름,,https://gall.dcinside.com/mgallery/board/view/?id=newheadphone&no=2565864
+새수집,복지/돌봄,잠깐 대화로 위안을 주는 복지 서비스,0,마음건강 상담전화,,https://cafe.naver.com/cafe1535/1904095
+새수집,배달,배달앱에서 메뉴/가게별 메모를 남기는 기능,0,없어 보임,,https://www.clien.net/service/board/park/19092326
+새수집,이동,캐리어를 집에서 공항까지 배송해 주는 서비스,1,공항 짐배송 서비스,,https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=7871013
+새수집,오디오,UMIK-1 마이크를 하루 단위로 빌려주는 대여 서비스,1,없어 보임,,https://gall.dcinside.com/mgallery/board/view/?id=speakers&no=513426
+새수집,교육,메가스터디에서 추천대학·맞춤대학을 알려 주는 서비스,0,진학사 합격예측,,https://www.82cook.com/entiz/read.php?bn=15&num=1932996
+새수집,콘텐츠,데플 시리즈를 몰아보기 요약본으로 보고 싶다,0,유튜브 영상 요약,영상 AI 요약 + 드라마 줄거리 요약,https://gall.dcinside.com/mini/board/view/?id=devilsplans3&no=6928
+새수집,취미,7인치 펜서레이크 같은 가벼운 장비를 누가 만들어 주길 바란다,0,모름,,https://cafe.naver.com/gray8l6ph/319643
+새수집,AI챗,자기 API 키를 넣어서 쓰는 AI 캐릭터챗 앱,0,모름,AI챗 + 사용자 키 연결 클라이언트,https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=146096
+새수집,통신,LTE 요금제에서 데이터 소진 시 자동 차단되는 서비스,0,통신사 데이터 차단 부가서비스,,https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=6005614
+새수집,생활대행,전화를 대신 걸어 주는 서비스,0,없어 보임,AI 음성 통화 + 심부름 대행,https://kin.naver.com/qna/detail.naver?answerNo=4&dirId=814&docId=491371039&kinsrch_src=pc_tab_kin&qb=64yA7IugIO2VtOyjvOuKlCDshJzruYTsiqQg7JeG64KY
+새수집,앱,갤럭시 스토어 출석체크를 자동으로 해 주는 것,0,오토클릭/루틴 앱,,https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19612581
+새수집,이동/숙박,출발지와 도착지를 찍으면 중간 지점 모텔 위치·가격을 보여 주는 지도 앱,0,없어 보임,지도 경로 + 숙박 가격 검색,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=90206&docId=490060230&kinsrch_src=pc_tab_kin&qb=7J2065%2BwIOyEnOu5hOyKpCDsl4brgpjsmpQ%3D
+새수집,돈관리,모바일 쿠폰을 한곳에서 통합 관리하는 앱,0,"카카오톡 선물함, 기프티쇼 보관함",,https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9702448
+새수집,쇼핑/배송,영국 직배송만 되는 상품을 대신 받아 한국으로 보내 주는 서비스,0,배송대행지(배대지),,https://kin.naver.com/qna/detail.naver?answerNo=2&dirId=81302&docId=463063955&kinsrch_src=pc_tab_kin&qb=7ZW07KO864qUIOyEnOu5hOyKpCDsl4brgpjsmpQ%3D
+새수집,게임,획득한 광휘와 미획득 위치를 확인·표시해 주는 앱이나 오버레이,0,공략 사이트 지도,,https://gall.dcinside.com/mgallery/board/view/?id=aniimo&no=30811
+새수집,독서,도서를 관리하는 앱,0,"북적북적, 리브로 등",,https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=4731904
+새수집,게임/폰,한곳을 계속 자동 터치해 주는 앱,0,오토클릭 앱,,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=10704&docId=222441622&kinsrch_src=pc_tab_kin&qb=7J6Q64%2BZ7Jy866GcIO2VtOyjvOuKlCDslbEg7JeG64KY
+새수집,콘텐츠,만화를 OTT처럼 월 구독으로 무제한 보는 서비스,0,"리디 만화 구독, 카카오페이지",,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=305&docId=427355953&kinsrch_src=pc_tab_kin&qb=7J2065%2BwIOyEnOu5hOyKpCDsl4brgpjsmpQ%3D
+새수집,영상,영상 편집을 자동으로 해 주는 도구,0,"Vrew, 캡컷 자동 편집",,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=3031003&docId=494461580&kinsrch_src=pc_tab_kin&qb=7ZW07KO864qUIOyVsSDsl4brgpjsmpQ%3D
+새수집,콘텐츠,"일본 만화를 한글로 번역해 보여 주는 앱, 마이너 작품 포함",0,"파파고 이미지 번역, 구글 렌즈",이미지 번역 + 만화 리더,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=11080401&docId=394055962&kinsrch_src=pc_tab_kin&qb=7ZW07KO864qUIOyVsSDsl4brgpjsmpQ%3D
+새수집,자동차/기기,기기 소프트웨어의 에러 내역을 직접 볼 수 있는 기능,0,없어 보임,,https://cafe.naver.com/cafeclip/1324198
+새수집,이동,정확한 위치까지 표시해 주는 지도 검색 사이트,0,"카카오맵, 네이버지도",,https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=114607
+새수집,SNS,댓글을 빨리 달게 해 주는 앱,0,모름,,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=1060113&docId=330381196&kinsrch_src=pc_tab_kin&qb=7ZW07KO864qUIOyVsSDsl4brgpjsmpQ%3D
+새수집,여행,제주 종이 관광지도를 받을 수 있는 곳,0,관광안내소 비치 지도,,https://cafe.naver.com/jejutip/2668954
+새수집,건강,설정 없이 자기만 해도 수면 시간을 자동 측정해 주는 아이폰 앱,0,"애플 수면 포커스, Sleep Cycle",,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=1060113&docId=417991057&kinsrch_src=pc_tab_kin&qb=7J2065%2BwIOyVsSDsl4brgpjsmpQ%3D
+새수집,생산성,날짜별 할 일을 적고 그날 잠금화면에 자동으로 띄워 주는 앱,0,잠금화면 위젯 할일 앱,캘린더 + 잠금화면 위젯,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=814&docId=484934627&kinsrch_src=pc_tab_kin&qb=7J2065%2BwIOyVsSDsl4brgpjsmpQ%3D
+새수집,교육,산타토익을 몇만 원대 월 구독으로 결제하는 방법,1,없어 보임,학습 서비스 + 월 분할 결제,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=40608&docId=495258457&kinsrch_src=pc_tab_kin&qb=64%2BIIOuCtOqzoOudvOuPhCDsk7Dqs6Ag7Iu27J2A
+새수집,생산성,3분과 2분 타이머를 번갈아 반복해 울리는 앱,0,인터벌 타이머 앱,,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=1060113&docId=424647837&kinsrch_src=pc_tab_kin&qb=7J2065%2BwIOyVsSDsl4brgpjsmpQ%3D
+새수집,취미/낚시,날짜·위치별로 무엇을 낚았는지 공유하는 앱이나 사이트,0,바다타임 등 낚시 앱,,https://gall.dcinside.com/mgallery/board/view/?id=lurefishing&no=280742
+새수집,생산성,서식이 붙지 않는 단순한 메모장 앱,0,"메모장, Notepad++",,https://cafe.naver.com/inmacbook/2104078
+새수집,예약,취소표를 자동으로 새로고침해 잡아 주는 어플,0,Nol 외 없어 보임,취소표 알림 + 자동 예약,https://cafe.naver.com/lionsball/5995595
+새수집,콘텐츠,모든 OTT를 한 번의 구독으로 이용하는 사이트나 앱,0,없어 보임,OTT 번들 구독,https://gall.dcinside.com/mgallery/board/view/?id=euca&no=1694893
+새수집,통신,SK에서 문자 읽음 확인을 하는 기능이나 부가서비스,0,없어 보임,,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=1070201&docId=378871265&kinsrch_src=pc_tab_kin&qb=7J2065%2BwIOyEnOu5hOyKpCDsl4brgpjsmpQ%3D
+새수집,학습,선택한 단어를 누르면 포스트잇처럼 뜨며 연결 메모를 보여 주는 메모 앱,0,"옵시디언 호버 미리보기, 노션",,https://kin.naver.com/qna/detail.naver?answerNo=3&dirId=10401&docId=495538054&kinsrch_src=pc_tab_kin&qb=7J2065%2BwIOq4sOuKpSDsnojripQg7JWxIOyXhuuCmA%3D%3D
+새수집,일정관리,학원 문자·카톡이 오면 자동으로 일정에 등록해 주는 것,0,구글캘린더 자동 일정 추출 기능,문자 파싱 + 캘린더,https://cafe.naver.com/mathall/3036030
+새수집,학업,광고 없는 간단한 시간표 앱,0,에브리타임 등,,https://cafe.naver.com/songpalogue/475429
+새수집,콘텐츠제작,캡컷처럼 쓰기 쉬운 가성비 PC 영상 편집앱,1,"다빈치 리졸브, 뱁믹스 등",,https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=13020203&docId=486088225&kinsrch_src=pc_tab_kin&qb=7J6I7Jy866m0IOyii%2BydhO2FkOuNsCDslbE%3D
+새수집,창업,20살 스타트업 대표가 받을 수 있는 사업지원금을 쉽게 찾고 신청하는 것,0,"K-Startup, 기업마당",지원금 검색 + 신청 대행,https://kin.naver.com/qna/detail.naver?answerNo=6&dirId=407&docId=494374528&kinsrch_src=pc_tab_kin&qb=7J2065%2BwIOqxsCDrp4zrk6TslrTso7zshLjsmpQ%3D
+리뷰,자동차·정비,[마이클] 카드사 결제 푸시를 읽어 주유비를 차계부에 자동 입력하는 기능,0,,차계부 + 카드 결제 알림,
+리뷰,여행·숙박·항공,[NOL : 야놀자와 인터파크의 새로운 이름] 비행 일정과 여행 경비를 입력해 관리하는 여행 계획 기능,0,,야놀자 NOL + 트리플 여행 일정 관리,
+리뷰,취업·이직·직장,[사람인] 지원 후 불합격 여부 피드백을 받는 기능,0,,채용 앱 + 잡플래닛식 합불 후기,
+리뷰,세금·연말정산,[스마트 위택스] 단속 과태료를 조회하고 납부하는 통합 기능,0,,위택스 + 지자체 단속 과태료 시스템,
+리뷰,임대차·이웃 분쟁,"[No.1 부동산 플랫폼, 직방] 전세대출 상품 종류를 골라 가능한 매물만 보는 기능",0,,부동산 앱 + 대출 상품 비교,
+리뷰,여행·숙박·항공,"[NOL : 야놀자와 인터파크의 새로운 이름] 일정별 시간 지정, 주소 입력 장소 추가, 일행과 일정 공동 수정",0,,야놀자 NOL + 트리플 여행 일정 관리,
+리뷰,임대차·이웃 분쟁,"[No.1 부동산 플랫폼, 직방] 예약 난방 등 스마트홈 기기 제어 기능",0,,직방 + SHOME 스마트홈 난방 제어,
+리뷰,여행·숙박·항공,[NOL : 야놀자와 인터파크의 새로운 이름] 일행 추가와 내 장소 직접 추가 기능,0,,야놀자 NOL + 트리플 여행 일정 관리,
+리뷰,자영업·소상공인,[오늘얼마] POS의 테이블별 주문과 합산 매출 현황을 앱에서 확인하는 기능,0,,POS 프로그램 + 매출 확인 앱,
+리뷰,옷·패션,[에이클로젯] 세컨솔드와의 연동 기능,0,,에이클로젯 + 세컨솔드 중고 판매 연동,

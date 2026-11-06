@@ -9,9 +9,29 @@
 | `appstore_low_reviews.csv` | 21,336 | 일상 앱 49개의 1·2점 리뷰. iOS 8,614(최근 500건 중 저평점) + Android 12,722(1점 200·2점 100 최신순). 14개 분야. 1점 16,266·2점 5,070 |
 | `community_complaints.csv` | 404 | 9개 커뮤니티에서 고른 "생활 속 반복되는 번거로움" 글. 12개 분야 모두 20건 이상. `pain_summary` 는 한 줄 요약 |
 | `modoo_yechang_stats.csv` | 260 | 모두의 창업 2026 1·2차와 예창패 2023~2027 의 지원자·선발·경쟁률·분야·라운드·평가·예산 수치. 한 사실에 한 행, 출처마다 행 |
+| `community_wide_judged.csv` | 1,600 | **40개 분야 판정 표본(11/5).** 글마다 분야 적합·실제 고통·반복·돈·해결 찾음·도구로 줄임과 고통 문구 |
+| `field_signals.csv` | 40 | 분야별 집계. 전체 후보 12,397건은 `work/wide/candidates.jsonl` |
+| `apps_by_field.csv` · `apps_core.csv` | 772 · 186 | 분야별 앱과 평점·평가 수·설치 수·1·2점 비율. core 는 검색 잡음을 손으로 뺀 앱 단위 표 |
+| `appstore_low_reviews_wide.csv` | 29,037 | 새 분야 핵심 앱의 1·2점 리뷰. 컬럼은 `appstore_low_reviews.csv` 와 같다 |
 | `modoo_yechang_reviews.csv` | 214 | 합격·불합격·심사위원 시점 후기. 심사 질문·점수 포인트·조언. 모두의 창업 134·예창패 80 |
 
 컬럼은 각 파일 첫 줄에 있다. 모두 UTF-8(BOM)·쉼표·전 필드 큰따옴표라 엑셀에서 바로 열린다.
+
+## 후보 아이템 문서
+
+| 파일 | 내용 |
+|---|---|
+| `wide_field_research_v0.1.md` | **40개 분야로 넓힌 조사(11/5).** 어느 분야가 도구로 줄일 수 있는 고통인가, 앱과 평점, 저평점의 함정 |
+| `insurance_note_v0.1.md` | 보험·실손 반응과 막힌 자리, 지인에게 물을 것 |
+| `candidate_items_v0.1.md` | 후보 3개와 보류 목록, **조사 뒤 세 후보 비교(순서 1 → 2 → 3)** |
+| `launch_kit_v0.1.md` | **후보 1 다음 할 일.** 순서, 132 질문, 제보 폼 문항, 모집 글 |
+| `refund_validation_plan_v0.1.md` · `b_side_outreach_v0.1.md` · `b_side/` · `wizard/` | 후보 1 잠결 결제 되찾기. 검증 계획, 앱 사업자 메일·리포트, 무료 위자드. 위자드 빌드는 `scripts/build_wizard.py`, 메일·리포트 생성은 `scripts/b_side_kit.py` |
+| `gym_validation_plan_v0.1.md` · `wizard/gym/` | 헬스장 환불 계산기. 후보 1 과 나란히 시험. 가설, 폼, 모집, 근거 표. 계산 점검은 `node wizard/gym/check.js` |
+| `paid_wish_research_v0.1.md` | **돈이 흐르는 고통과 소원(11/5).** 소비자원 2025 연보 상위 30 품목, 돈 내고 겪은 불만 272건(`paid_pain_posts.csv`), 돈 내는 앱 26개의 불만과 다른 방식, 소원 102건(`wish_posts.csv`)과 융합 후보, 자리별 기존 앱. 결론은 사업자(1인 전문가) 쪽 |
+| `pro_interview_kit_v0.1.md` | **1인 서비스 전문가 인터뷰 키트(11/5).** 가설 H1~H5, 5명 구성과 찾을 카페, 접근 문구, 질문 15개, 기록 표, 판정 규칙, 플랫폼 요금 사실표. 기록은 `work/pro_interviews.tsv`(레포 밖) |
+| `household_validation_plan_v0.1.md` | 후보 2 집안일 장부. 규제 벽 없음, 앱 75개 중 승자 없음, 1회 결산으로 모양 변경 |
+| `refill_validation_plan_v0.1.md` | 후보 3 재처방 비서. 원내처방·대리처방 제외, 12/24 비대면 규칙 안내만 시험 |
+| `work/household_research.md` · `work/refill_research.md` | 위 두 문서의 조사 원문과 출처 전체. 표기 주의는 각 계획 문서의 "확인" 열 |
 
 ## 먼저 볼 것
 

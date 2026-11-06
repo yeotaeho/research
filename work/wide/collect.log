@@ -1,0 +1,7 @@
+[clien] 요청 448 후보 658 오류 0 []
+[pann] 요청 448 후보 491 오류 0 []
+[dcinside] 요청 448 후보 3045 오류 0 []
+[82cook] 요청 448 후보 4 오류 0 []
+[naver_cafe] 요청 640 후보 1605 오류 540 ['HTTP 403 https://search.naver.com/search.naver?ssc=tab.cafe.all&query=%EB%B3%91%EC%9B%90%', 'HTTP 403 https://search.naver.com/search.naver?ssc=tab.cafe.all&query=%EB%B3%91%EC%9B%90%', 'HTTP 403 https://search.naver.com/search.naver?ssc=tab.cafe.all&query=%EB%B3%91%EC%9B%90%']
+[naver_kin] 요청 896 후보 504 오류 553 ['HTTP 403 https://search.naver.com/search.naver?where=kin&query=%EC%9E%84%EA%B8%88%EC%B2%B', 'HTTP 403 https://search.naver.com/search.naver?where=kin&query=%EC%9E%84%EA%B8%88%EC%B2%B', 'HTTP 403 https://search.naver.com/search.naver?where=kin&query=%EC%9E%84%EA%B8%88%EC%B2%B']
+[ppomppu] 요청 448 후보 200 오류 0 []
